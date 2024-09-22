@@ -21,3 +21,7 @@
 6. Iconize
 7. Note Gallery
 8. cMenu
+9. Iconize
+10. Meld Encrypt
+11. Templater 
+12. Touch Bar Macros 
