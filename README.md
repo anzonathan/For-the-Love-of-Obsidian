@@ -8,3 +8,8 @@ Things I find useful in Obsidian
  
 <a name="anchor-name"></a>
 ```
+
+### Insprirations
+
+1. [Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
+2. [Anthony](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
