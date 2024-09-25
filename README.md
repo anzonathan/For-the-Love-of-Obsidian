@@ -19,6 +19,7 @@ Things I find useful in Obsidian
 Example
 
 <font color=ff5733>Pretty Cool</font>
+
 ### Insprirations
 
 1. [Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
