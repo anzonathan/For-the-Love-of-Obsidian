@@ -16,9 +16,6 @@ Things I find useful in Obsidian
 <font color=color-code>Your Text</font>
 ```
 
-Example
-
-<font color=ff5733>Pretty Cool</font>
 
 ### Insprirations
 
