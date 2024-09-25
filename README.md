@@ -9,6 +9,16 @@ Things I find useful in Obsidian
 <a name="anchor-name"></a>
 ```
 
+### Change Font Color
+```markdown
+[Link Text](#anchor-name)
+ 
+<font color=color-code>Your Text</font>
+```
+
+Example
+
+<font color=ff5733>Pretty Cool</font>
 ### Insprirations
 
 1. [Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
