@@ -25,3 +25,5 @@
 10. Meld Encrypt
 11. Templater 
 12. Touch Bar Macros 
+13. Tab Switcher
+
