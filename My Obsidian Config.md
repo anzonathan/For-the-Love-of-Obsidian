@@ -13,6 +13,7 @@
 
 ### Plugins 
 
+
 1. Tasks
 2. Task Progress Bar 
 3. Dataview 
@@ -26,4 +27,5 @@
 11. Templater 
 12. Touch Bar Macros 
 13. Tab Switcher
+14. Surfing
 
